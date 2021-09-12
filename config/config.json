@@ -1,0 +1,11 @@
+{
+  "name": "locker-test-app",
+  "server": {
+    "ip":"127.0.0.1",
+    "port": "80",
+    "path": "/",
+    "logPath": "./logs",
+    "logLevel": "ALL"
+  },
+  "dataPath": "./data/challenge.json"
+}

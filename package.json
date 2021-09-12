@@ -1,0 +1,16 @@
+{
+  "name": "locker-test-app",
+  "version": "1.0.0",
+  "description": "locker test app :P",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js config/config.json",
+    "start": "node server.js"
+  },
+  "author": "MJZ",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "log4js": "^6.3.0"
+  }
+}

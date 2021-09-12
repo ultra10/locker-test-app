@@ -1,0 +1,5 @@
+/.vscode
+/logs/locker-test-app/*
+/node_modules
+/config/*
+!/config/config.json
